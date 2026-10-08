@@ -1,6 +1,15 @@
 {
     "experiences": [
         {
+            "company": "American International Group (AIG)",
+            "title": "Software Engineer",
+            "url": "https://www.aig.com/home",
+            "date": "Jul 2026 - Present",
+            "src": "/img/experience/aig.png",
+            "alt": "AIG logo"
+        },
+
+        {
             "company": "Jones Lang LaSalle",
             "title": "Software Engineer Intern",
             "url": "https://www.jll.com/en-us/",

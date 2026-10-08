@@ -1,6 +1,12 @@
 {
     "skills": [
         {
+            "src": "/img/skills/angular.png",
+            "alt": "Angular logo",
+            "name": "Angular"
+        },
+
+        {
             "src": "/img/skills/ado.png",
             "alt": "ADO logo",
             "name": "Azure DevOps"
@@ -10,6 +16,12 @@
             "src": "/img/skills/c.png",
             "alt": "C logo",
             "name": "C"
+        },
+
+        {
+            "src": "/img/skills/dbeaver.png",
+            "alt": "DBeaver logo",
+            "name": "DBeaver"
         },
 
         {
@@ -46,6 +58,12 @@
             "src": "/img/skills/javascript.png",
             "alt": "JavaScript logo",
             "name": "JavaScript"
+        },
+
+        {
+            "src": "/img/skills/postgresql.png",
+            "alt": "PostgreSQL logo",
+            "name": "PostgreSQL"
         },
 
         {
